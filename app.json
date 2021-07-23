@@ -4,7 +4,7 @@
     "website": "https://www.refinerycms.com/",
     "repository": "https://github.com/refinery/refinery-example-app",
     "logo": "https://raw.githubusercontent.com/refinery/refinerycms/master/core/app/assets/images/refinery/refinery-cms-logo.svg",
-    "stack": "heroku-20",
+    "stack": "heroku-18",
     "keywords": [
       "refinery",
       "example",
